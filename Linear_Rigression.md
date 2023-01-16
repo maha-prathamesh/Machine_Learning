@@ -1,4 +1,7 @@
 # Linear Regression
+## What is Linear Regression ?
+
+Linear regression fits a straight line or surface that minimizes the discrepancies between predicted and actual output values. There are simple linear regression calculators that use a “least squares” method to discover the best-fit line for a set of paired data.
 
 ## Idea
 
@@ -10,7 +13,11 @@
 <img src="Linear Regression/img/idea_21.png" height="300" width="400">   | <img src="Linear Regression/img/idea_22.png" height="300" width="400"> 
 <img src="Linear Regression/img/idea_23.png" height="300" width="400">   | <img src="Linear Regression/img/idea_24.png" height="300" width="400"> 
 
+</br>
+## Assumptions
 
+
+</br>
 ## R2
 <img src="Linear Regression/img/R2_1.png" height="300" width="400">  | <img src="Linear Regression/img/R2_2.png" height="300" width="400">
 ------------- | -------------
