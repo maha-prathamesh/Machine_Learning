@@ -1,2 +1,2 @@
-# Machine_Learning
-machine learning interview + learning material
+# Machine_Learning Concepts
+## Linear Regression
