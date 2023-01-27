@@ -3,7 +3,7 @@
 ## When to Use Naive Bayes
 
 Because naive Bayesian classifiers make such stringent assumptions about data, they will generally not perform as well as a more complicated model.
-That said, they have several advantages:
+Advantages:
 
 - They are extremely fast for both training and prediction
 - They provide straightforward probabilistic prediction
